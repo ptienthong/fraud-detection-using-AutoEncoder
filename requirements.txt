@@ -1,0 +1,10 @@
+matplotlib
+numpy<2
+pandas
+pyod
+seaborn==0.12.2
+tensorflow==2.11.0
+pyyaml 
+typeguard
+tqdm
+notebook
